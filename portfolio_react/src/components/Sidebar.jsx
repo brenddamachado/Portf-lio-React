@@ -1,5 +1,5 @@
 import React from 'react'
-import foto from '../img/BrendaMachado.jpg'
+import foto from '../img/eu.jfif'
 import '../styles/components/sidebar.sass'
 export const Sidebar = () => {
   return <aside id='sidebar'>
