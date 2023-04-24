@@ -1,7 +1,7 @@
-import React from 'react'
+import '../styles/components/MainContent.sass'
 
 export const MainContent = () => {
   return (
-    <div>MainContent</div>
+    <main id='main-content'>MainContent</main>
   )
 }
