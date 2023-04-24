@@ -2,12 +2,13 @@ import { MainContent } from './components/MainContent'
 import { Sidebar } from './components/Sidebar'
 import './styles/components/App.sass'
 
+
 function App() {
 
 
   return (
-    <div id="porfolio">
-      <h1>Brenda Machado</h1>
+    <div id="portfolio">
+      <h2>Brenda Machado</h2>
       <Sidebar />
       <MainContent />
     </div>
